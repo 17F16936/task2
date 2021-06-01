@@ -21,3 +21,5 @@ Print "display expelled from college"
  Else
 Display "dose not complete the course"
  End if
+
+rayan
